@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDd81ba793ce15105051202e401dc82a4c</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>7ca689a10b55dc1057d8482393673a8b</scope_name>
+        <serialized_content>{"FlowDesigner:FDd81ba793ce15105051202e401dc82a4c":{"$COCollectionField":["String"],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FDd81ba793ce15105051202e401dc82a4c.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Tag Keys\",\"mandatory\":\"true\",\"child_name\":\"Key\",\"uiUniqueId\":\"db7fa40b-ca78-410b-8cc9-51eb027cb334\",\"uiTypeLabel\":\"Array.String\",\"co_type_name\":\"FDd81ba793ce15105051202e401dc82a4c\",\"child_label\":\"Key\",\"child_type_label\":\"String\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"array.string\",\"child_defaultValue\":\"\",\"child_type\":\"string\",\"order\":\"3\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"652ca480-6f22-45f0-8a5f-ed16e90ae635\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-15 05:55:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9c1ba7930b15105057d8482393673a4c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDd81ba793ce15105051202e401dc82a4c</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AWS OpsWorks Spoke" source="sn_aws_opswork_spk">7ca689a10b55dc1057d8482393673a8b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AWS OpsWorks Spoke">7ca689a10b55dc1057d8482393673a8b</sys_scope>
+        <sys_update_name>sys_complex_object_9c1ba7930b15105057d8482393673a4c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-15 05:55:22</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

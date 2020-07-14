@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD6f74c6ede495dc100743617d8c658daf</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>7ca689a10b55dc1057d8482393673a8b</scope_name>
+        <serialized_content>{"FlowDesigner:FD6f74c6ede495dc100743617d8c658daf":{"$COCollectionField":[{"AppId":{"CreatedAt":"String","CreatedAt.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"CreatedAt\",\"mandatory\":\"true\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"2ea83e5a-1afd-4f55-b498-1a3d8af05f2c\"}"},"Shortname":"String","Shortname.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Shortname\",\"mandatory\":\"true\",\"order\":\"3\",\"max_length\":\"0\",\"uiUniqueId\":\"8c6d8e0a-a7e2-4603-9fae-0712c45ac58c\"}"},"AppSource":{"Type":"String","Type.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Type\",\"mandatory\":\"true\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"a918b0f4-38ae-43c8-9b68-70ed951bdff9\"}"},"Url":"String","Url.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Url\",\"mandatory\":\"true\",\"order\":\"2\",\"max_length\":\"0\",\"uiUniqueId\":\"154172b3-eb69-4fc0-b2ac-0db722913ae7\"}"}},"AppSource.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Object\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"AppSource\",\"mandatory\":\"false\",\"order\":\"4\",\"max_length\":\"0\",\"uiUniqueId\":\"9fec067e-1615-414d-82b4-0af4ed623db3\"}"},"Name":"String","Name.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Name\",\"mandatory\":\"true\",\"order\":\"2\",\"max_length\":\"0\",\"uiUniqueId\":\"a7888807-ec82-4eab-9bb9-238cac03d564\"}"}}}],"$COCollectionField.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"e00cc7df-ec23-46d7-82cd-d2ecb6ef43ab\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Apps\",\"mandatory\":\"false\",\"child_name\":\"AppId\",\"uiUniqueId\":\"d45ddf66-b4fd-45b6-83f7-1b406d8f0dda\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD6f74c6ede495dc100743617d8c658daf\",\"child_label\":\"AppId\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"0279a2e2-5e44-4c76-aa83-3851e0a2bed0\",\"hint\":null,\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"571440c2-7e86-43af-bb57-063a2258db35\"}"},"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD6f74c6ede495dc100743617d8c658daf.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"e00cc7df-ec23-46d7-82cd-d2ecb6ef43ab\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Apps\",\"mandatory\":\"false\",\"child_name\":\"AppId\",\"uiUniqueId\":\"d45ddf66-b4fd-45b6-83f7-1b406d8f0dda\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD6f74c6ede495dc100743617d8c658daf\",\"child_label\":\"AppId\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"0279a2e2-5e44-4c76-aa83-3851e0a2bed0\",\"hint\":null,\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"571440c2-7e86-43af-bb57-063a2258db35\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-09 11:57:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2374c6ed0b95dc1057d8482393673ab0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD6f74c6ede495dc100743617d8c658daf</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AWS OpsWorks Spoke" source="sn_aws_opswork_spk">7ca689a10b55dc1057d8482393673a8b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AWS OpsWorks Spoke">7ca689a10b55dc1057d8482393673a8b</sys_scope>
+        <sys_update_name>sys_complex_object_2374c6ed0b95dc1057d8482393673ab0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-09 11:57:50</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

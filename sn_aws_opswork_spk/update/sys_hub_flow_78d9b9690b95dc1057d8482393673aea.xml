@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>qatest</internal_name>
+        <label_cache>[{"name":"64696327-57b8-4e19-8fe9-fb2815f77811.status","label":"1➛Status","reference_display":"Status","type":"choice","base_type":"choice","attributes":{"uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"choice","uiUniqueId":"e58ef836-128a-4c93-9d0c-3319da34d033"}},{"name":"64696327-57b8-4e19-8fe9-fb2815f77811.error_message","label":"1➛Error Message","reference_display":"Error Message","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiType":"string","uiUniqueId":"296c5b47-c96a-4c10-91d3-8651b016cd4f"}},{"name":"9c529b2a-c8f5-4b2f-9e20-e1c1bfc5dab5.status","label":"2➛Status","reference_display":"Status","type":"choice","base_type":"choice","attributes":{"uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"choice","uiUniqueId":"e58ef836-128a-4c93-9d0c-3319da34d033"}},{"name":"9c529b2a-c8f5-4b2f-9e20-e1c1bfc5dab5.error_message","label":"2➛Error Message","reference_display":"Error Message","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiType":"string","uiUniqueId":"296c5b47-c96a-4c10-91d3-8651b016cd4f"}}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>qatest</name>
+        <natlang/>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-09 11:11:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>78d9b9690b95dc1057d8482393673aea</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>qatest</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AWS OpsWorks Spoke" source="sn_aws_opswork_spk">7ca689a10b55dc1057d8482393673a8b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AWS OpsWorks Spoke">7ca689a10b55dc1057d8482393673a8b</sys_scope>
+        <sys_update_name>sys_hub_flow_78d9b9690b95dc1057d8482393673aea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-09 11:12:25</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=78d9b9690b95dc1057d8482393673aea"/>
+    <sys_variable_value action="delete_multiple" query="document_key=78d9b9690b95dc1057d8482393673aea"/>
+    <sys_hub_flow_component action="delete_multiple" query="flow=78d9b9690b95dc1057d8482393673aea^sys_idNOT IN0a1abd690b95dc1057d8482393673a73,421abd690b95dc1057d8482393673a79"/>
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Delete Tags">a9882e2a0b24941057d8482393673adc</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="qatest">78d9b9690b95dc1057d8482393673aea</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-09 11:12:25</sys_created_on>
+        <sys_id>0a1abd690b95dc1057d8482393673a73</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_scope display_value="AWS OpsWorks Spoke">7ca689a10b55dc1057d8482393673a8b</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-09 11:12:25</sys_updated_on>
+        <ui_id>64696327-57b8-4e19-8fe9-fb2815f77811</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=0a1abd690b95dc1057d8482393673a73"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>0a1abd690b95dc1057d8482393673a73</document_key>
+        <order>3</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-09 11:12:25</sys_created_on>
+        <sys_id>0a1abd690b95dc1057d8482393673a76</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-09 11:12:25</sys_updated_on>
+        <value>{"version":"1.0","complexObject":{"name$":"FD0c4e1c2cb0301810502d47b32e67726f","$COCollectionField":["firstkey1"]},"complexObjectSchema":{"FlowDesigner:FD0c4e1c2cb0301810502d47b32e67726f":{"$COCollectionField":["String"],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD0c4e1c2cb0301810502d47b32e67726f.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Tags\",\"mandatory\":\"true\",\"child_name\":\"Key\",\"uiUniqueId\":\"00413794-fecf-4ff6-a650-737111566fe1\",\"uiTypeLabel\":\"Array.String\",\"co_type_name\":\"FD0c4e1c2cb0301810502d47b32e67726f\",\"child_label\":\"Key\",\"child_type_label\":\"String\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"array.string\",\"mapped\":\"{}\",\"child_type\":\"string\",\"order\":\"3\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"b557ca89-7bb6-4446-8773-9b86a0cc9939\"}"}},"serializationFormat":"JSON"}</value>
+        <variable display_value="">39886e2a0b24941057d8482393673a03</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>0a1abd690b95dc1057d8482393673a73</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-09 11:12:25</sys_created_on>
+        <sys_id>461abd690b95dc1057d8482393673a76</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-09 11:12:25</sys_updated_on>
+        <value>arn:aws:elasticloadbalancing:us-east-1:995364581326:targetgroup/test123/f41189b2e295eccc</value>
+        <variable display_value="">f9882e2a0b24941057d8482393673af1</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>0a1abd690b95dc1057d8482393673a73</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-09 11:12:25</sys_created_on>
+        <sys_id>821abd690b95dc1057d8482393673a76</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-09 11:12:25</sys_updated_on>
+        <value>us-east-1</value>
+        <variable display_value="">3d882e2a0b24941057d8482393673aeb</variable>
+    </sys_variable_value>
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Delete Tags">a9882e2a0b24941057d8482393673adc</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="qatest">78d9b9690b95dc1057d8482393673aea</flow>
+        <order>2</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-09 11:12:25</sys_created_on>
+        <sys_id>421abd690b95dc1057d8482393673a79</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_scope display_value="AWS OpsWorks Spoke">7ca689a10b55dc1057d8482393673a8b</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-09 11:12:25</sys_updated_on>
+        <ui_id>9c529b2a-c8f5-4b2f-9e20-e1c1bfc5dab5</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=421abd690b95dc1057d8482393673a79"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>421abd690b95dc1057d8482393673a79</document_key>
+        <order>3</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-09 11:12:25</sys_created_on>
+        <sys_id>021abd690b95dc1057d8482393673a7b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-09 11:12:25</sys_updated_on>
+        <value>{"version":"1.0","complexObject":{"name$":"FD0c4e1c2cb0301810502d47b32e67726f","$COCollectionField":["aa"]},"complexObjectSchema":{"FlowDesigner:FD0c4e1c2cb0301810502d47b32e67726f":{"$COCollectionField":["String"],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD0c4e1c2cb0301810502d47b32e67726f.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Tags\",\"mandatory\":\"true\",\"child_name\":\"Key\",\"uiUniqueId\":\"00413794-fecf-4ff6-a650-737111566fe1\",\"uiTypeLabel\":\"Array.String\",\"co_type_name\":\"FD0c4e1c2cb0301810502d47b32e67726f\",\"child_label\":\"Key\",\"child_type_label\":\"String\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"array.string\",\"mapped\":\"{}\",\"child_type\":\"string\",\"order\":\"3\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"b557ca89-7bb6-4446-8773-9b86a0cc9939\"}"}},"serializationFormat":"JSON"}</value>
+        <variable display_value="">39886e2a0b24941057d8482393673a03</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>421abd690b95dc1057d8482393673a79</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-09 11:12:25</sys_created_on>
+        <sys_id>4e1abd690b95dc1057d8482393673a7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-09 11:12:25</sys_updated_on>
+        <value>arn:aws:elasticloadbalancing:us-east-1:995364581326:loadbalancer/app/firstloadBalancer1/a68ce73dc61dfc1f</value>
+        <variable display_value="">f9882e2a0b24941057d8482393673af1</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>421abd690b95dc1057d8482393673a79</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-09 11:12:25</sys_created_on>
+        <sys_id>8a1abd690b95dc1057d8482393673a7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-09 11:12:25</sys_updated_on>
+        <value>us-east-1</value>
+        <variable display_value="">3d882e2a0b24941057d8482393673aeb</variable>
+    </sys_variable_value>
+    <sys_flow_cat_variable_model action="delete_multiple" query="id=78d9b9690b95dc1057d8482393673aea^sys_idNOT INb8d9b9690b95dc1057d8482393673aec"/>
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>78d9b9690b95dc1057d8482393673aea</id>
+        <name>qatest</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-09 11:11:14</sys_created_on>
+        <sys_id>b8d9b9690b95dc1057d8482393673aec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-09 11:11:14</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_hub_action_instance action="delete_multiple" query="flow=78d9b9690b95dc1057d8482393673aea^sys_idNOT IN0a1abd690b95dc1057d8482393673a73,421abd690b95dc1057d8482393673a79"/>
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Delete Tags">a9882e2a0b24941057d8482393673adc</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="qatest">78d9b9690b95dc1057d8482393673aea</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-09 11:12:25</sys_created_on>
+        <sys_id>0a1abd690b95dc1057d8482393673a73</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_scope display_value="AWS OpsWorks Spoke">7ca689a10b55dc1057d8482393673a8b</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-09 11:12:25</sys_updated_on>
+        <ui_id>64696327-57b8-4e19-8fe9-fb2815f77811</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=0a1abd690b95dc1057d8482393673a73"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>0a1abd690b95dc1057d8482393673a73</document_key>
+        <order>3</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-09 11:12:25</sys_created_on>
+        <sys_id>0a1abd690b95dc1057d8482393673a76</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-09 11:12:25</sys_updated_on>
+        <value>{"version":"1.0","complexObject":{"name$":"FD0c4e1c2cb0301810502d47b32e67726f","$COCollectionField":["firstkey1"]},"complexObjectSchema":{"FlowDesigner:FD0c4e1c2cb0301810502d47b32e67726f":{"$COCollectionField":["String"],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD0c4e1c2cb0301810502d47b32e67726f.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Tags\",\"mandatory\":\"true\",\"child_name\":\"Key\",\"uiUniqueId\":\"00413794-fecf-4ff6-a650-737111566fe1\",\"uiTypeLabel\":\"Array.String\",\"co_type_name\":\"FD0c4e1c2cb0301810502d47b32e67726f\",\"child_label\":\"Key\",\"child_type_label\":\"String\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"array.string\",\"mapped\":\"{}\",\"child_type\":\"string\",\"order\":\"3\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"b557ca89-7bb6-4446-8773-9b86a0cc9939\"}"}},"serializationFormat":"JSON"}</value>
+        <variable display_value="">39886e2a0b24941057d8482393673a03</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>0a1abd690b95dc1057d8482393673a73</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-09 11:12:25</sys_created_on>
+        <sys_id>461abd690b95dc1057d8482393673a76</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-09 11:12:25</sys_updated_on>
+        <value>arn:aws:elasticloadbalancing:us-east-1:995364581326:targetgroup/test123/f41189b2e295eccc</value>
+        <variable display_value="">f9882e2a0b24941057d8482393673af1</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>0a1abd690b95dc1057d8482393673a73</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-09 11:12:25</sys_created_on>
+        <sys_id>821abd690b95dc1057d8482393673a76</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-09 11:12:25</sys_updated_on>
+        <value>us-east-1</value>
+        <variable display_value="">3d882e2a0b24941057d8482393673aeb</variable>
+    </sys_variable_value>
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Delete Tags">a9882e2a0b24941057d8482393673adc</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="qatest">78d9b9690b95dc1057d8482393673aea</flow>
+        <order>2</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-09 11:12:25</sys_created_on>
+        <sys_id>421abd690b95dc1057d8482393673a79</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_scope display_value="AWS OpsWorks Spoke">7ca689a10b55dc1057d8482393673a8b</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-09 11:12:25</sys_updated_on>
+        <ui_id>9c529b2a-c8f5-4b2f-9e20-e1c1bfc5dab5</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=421abd690b95dc1057d8482393673a79"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>421abd690b95dc1057d8482393673a79</document_key>
+        <order>3</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-09 11:12:25</sys_created_on>
+        <sys_id>021abd690b95dc1057d8482393673a7b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-09 11:12:25</sys_updated_on>
+        <value>{"version":"1.0","complexObject":{"name$":"FD0c4e1c2cb0301810502d47b32e67726f","$COCollectionField":["aa"]},"complexObjectSchema":{"FlowDesigner:FD0c4e1c2cb0301810502d47b32e67726f":{"$COCollectionField":["String"],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD0c4e1c2cb0301810502d47b32e67726f.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Tags\",\"mandatory\":\"true\",\"child_name\":\"Key\",\"uiUniqueId\":\"00413794-fecf-4ff6-a650-737111566fe1\",\"uiTypeLabel\":\"Array.String\",\"co_type_name\":\"FD0c4e1c2cb0301810502d47b32e67726f\",\"child_label\":\"Key\",\"child_type_label\":\"String\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"array.string\",\"mapped\":\"{}\",\"child_type\":\"string\",\"order\":\"3\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"b557ca89-7bb6-4446-8773-9b86a0cc9939\"}"}},"serializationFormat":"JSON"}</value>
+        <variable display_value="">39886e2a0b24941057d8482393673a03</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>421abd690b95dc1057d8482393673a79</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-09 11:12:25</sys_created_on>
+        <sys_id>4e1abd690b95dc1057d8482393673a7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-09 11:12:25</sys_updated_on>
+        <value>arn:aws:elasticloadbalancing:us-east-1:995364581326:loadbalancer/app/firstloadBalancer1/a68ce73dc61dfc1f</value>
+        <variable display_value="">f9882e2a0b24941057d8482393673af1</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>421abd690b95dc1057d8482393673a79</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-09 11:12:25</sys_created_on>
+        <sys_id>8a1abd690b95dc1057d8482393673a7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-09 11:12:25</sys_updated_on>
+        <value>us-east-1</value>
+        <variable display_value="">3d882e2a0b24941057d8482393673aeb</variable>
+    </sys_variable_value>
+</record_update>

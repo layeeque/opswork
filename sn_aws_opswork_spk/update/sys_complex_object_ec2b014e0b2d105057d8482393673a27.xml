@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD2c2b014e082d10502b93b8a227aa1227</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>7ca689a10b55dc1057d8482393673a8b</scope_name>
+        <serialized_content>{"FlowDesigner:FD2c2b014e082d10502b93b8a227aa1227":{"$COCollectionField":["String"],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD2c2b014e082d10502b93b8a227aa1227.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Tag Keys\",\"mandatory\":\"true\",\"child_name\":\"Key\",\"uiUniqueId\":\"db7fa40b-ca78-410b-8cc9-51eb027cb334\",\"uiTypeLabel\":\"Array.String\",\"co_type_name\":\"FD2c2b014e082d10502b93b8a227aa1227\",\"child_label\":\"Key\",\"child_type_label\":\"String\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"array.string\",\"child_type\":\"string\",\"order\":\"3\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"2f990718-7a1e-4ae2-a08b-647f8b395e4d\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-23 07:19:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ec2b014e0b2d105057d8482393673a27</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD2c2b014e082d10502b93b8a227aa1227</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AWS OpsWorks Spoke" source="sn_aws_opswork_spk">7ca689a10b55dc1057d8482393673a8b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AWS OpsWorks Spoke">7ca689a10b55dc1057d8482393673a8b</sys_scope>
+        <sys_update_name>sys_complex_object_ec2b014e0b2d105057d8482393673a27</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-23 07:19:54</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

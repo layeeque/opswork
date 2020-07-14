@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD8d51b4b38a551050babcee771103380f</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>7ca689a10b55dc1057d8482393673a8b</scope_name>
+        <serialized_content>{"FlowDesigner:FD8d51b4b38a551050babcee771103380f":{"$COCollectionField":[{"Elastic_Load_Balancer":{"DnsName":"String","DnsName.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"DnsName\",\"mandatory\":\"true\",\"order\":\"4\",\"max_length\":\"0\"}"},"LayerId":"String","LayerId.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"LayerId\",\"mandatory\":\"true\",\"order\":\"8\",\"max_length\":\"0\"}"},"VpcId":"String","VpcId.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"VpcId\",\"mandatory\":\"true\",\"order\":\"10\",\"max_length\":\"0\"}"},"Ec2InstanceIds":["Any"],"Ec2InstanceIds.$field_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Ec2InstanceIds\",\"mandatory\":\"true\",\"child_name\":\"Ec2_Instance_ID\",\"uiTypeLabel\":\"Array.String\",\"child_label\":\"Ec2 Instance ID\",\"child_type_label\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"array.string\",\"child_defaultValue\":\"\",\"child_type\":\"string\",\"order\":\"5\",\"max_length\":\"0\",\"child_uiUniqueId\":\"2c2c86a1-328a-42ff-9a80-66ded1f0b3cd\"}"},"ElasticLoadBalancerName":"String","ElasticLoadBalancerName.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"ElasticLoadBalancerName\",\"mandatory\":\"true\",\"order\":\"7\",\"max_length\":\"0\"}"},"StackId":"String","StackId.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"StackId\",\"mandatory\":\"true\",\"order\":\"9\",\"max_length\":\"0\"}"}}}],"$COCollectionField.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Elastic Load Balancers\",\"mandatory\":\"true\",\"child_name\":\"Elastic_Load_Balancer\",\"uiUniqueId\":\"f3e2da40-51a3-47ab-a454-65ea48c05a1f\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD8d51b4b38a551050babcee771103380f\",\"child_label\":\"Elastic Load Balancer\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"3\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"6e2e3cee-4c54-4fa3-af5a-3ac1264f220a\"}"},"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD8d51b4b38a551050babcee771103380f.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Elastic Load Balancers\",\"mandatory\":\"true\",\"child_name\":\"Elastic_Load_Balancer\",\"uiUniqueId\":\"f3e2da40-51a3-47ab-a454-65ea48c05a1f\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD8d51b4b38a551050babcee771103380f\",\"child_label\":\"Elastic Load Balancer\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"3\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"6e2e3cee-4c54-4fa3-af5a-3ac1264f220a\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-16 05:40:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4151b4b30b55105057d8482393673a10</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD8d51b4b38a551050babcee771103380f</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AWS OpsWorks Spoke" source="sn_aws_opswork_spk">7ca689a10b55dc1057d8482393673a8b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AWS OpsWorks Spoke">7ca689a10b55dc1057d8482393673a8b</sys_scope>
+        <sys_update_name>sys_complex_object_4151b4b30b55105057d8482393673a10</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-16 05:40:49</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

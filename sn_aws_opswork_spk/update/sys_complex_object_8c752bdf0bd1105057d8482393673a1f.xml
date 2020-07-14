@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDc8752bdf02d11050dbbacaa291b92a1f</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>7ca689a10b55dc1057d8482393673a8b</scope_name>
+        <serialized_content>{"FlowDesigner:FDc8752bdf02d11050dbbacaa291b92a1f":{},"FlowDesigner:FDc8752bdf02d11050dbbacaa291b92a1f.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"payload\",\"mandatory\":\"true\",\"uiUniqueId\":\"bcaa6dae-80e9-4b29-9355-69c05e14f555\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDc8752bdf02d11050dbbacaa291b92a1f\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"object\",\"order\":\"3\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-15 05:30:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8c752bdf0bd1105057d8482393673a1f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDc8752bdf02d11050dbbacaa291b92a1f</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AWS OpsWorks Spoke" source="sn_aws_opswork_spk">7ca689a10b55dc1057d8482393673a8b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AWS OpsWorks Spoke">7ca689a10b55dc1057d8482393673a8b</sys_scope>
+        <sys_update_name>sys_complex_object_8c752bdf0bd1105057d8482393673a1f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-15 05:30:46</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

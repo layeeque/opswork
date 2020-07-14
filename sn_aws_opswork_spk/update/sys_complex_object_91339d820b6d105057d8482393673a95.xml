@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDdd339d821f6d10509732010affd84194</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>7ca689a10b55dc1057d8482393673a8b</scope_name>
+        <serialized_content>{"FlowDesigner:FDdd339d821f6d10509732010affd84194":{"$COCollectionField":[{"Layer":{"LayerId":"String","LayerId.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"LayerId\",\"mandatory\":\"true\",\"order\":\"4\",\"max_length\":\"0\",\"uiUniqueId\":\"fbf8940f-9232-491a-a3ec-746f5af56ecd\"}"},"CreatedAt":"String","CreatedAt.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"CreatedAt\",\"mandatory\":\"true\",\"order\":\"2\",\"max_length\":\"0\",\"uiUniqueId\":\"c298d2d1-50ac-427e-a19e-25937b6d1c30\"}"},"Shortname":"String","Shortname.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Shortname\",\"mandatory\":\"true\",\"order\":\"5\",\"max_length\":\"0\",\"uiUniqueId\":\"25bc3ac9-f562-4cc1-8ad3-645e59b4e82d\"}"},"Arn":"String","Arn.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Arn\",\"mandatory\":\"true\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"5803ab3a-f32c-478a-b655-02d0e37ba3df\"}"},"Name":"String","Name.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Name\",\"mandatory\":\"true\",\"order\":\"3\",\"max_length\":\"0\",\"uiUniqueId\":\"8a2ee021-cc2a-4acc-b89f-c9df9f8602b1\"}"}}}],"$COCollectionField.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"0c80bad7-1952-4bb2-a8ff-4f77d8831df3\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Layers\",\"mandatory\":\"false\",\"child_name\":\"Layer\",\"uiUniqueId\":\"ba7dca6c-2949-44ff-92a8-b83c427a5161\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FDdd339d821f6d10509732010affd84194\",\"child_label\":\"Layer\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"be315853-8016-463d-bdef-b8e864f8fae3\",\"hint\":null,\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"67b941cd-1609-4a8c-8eff-ac0e111b2a46\"}"},"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FDdd339d821f6d10509732010affd84194.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"0c80bad7-1952-4bb2-a8ff-4f77d8831df3\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Layers\",\"mandatory\":\"false\",\"child_name\":\"Layer\",\"uiUniqueId\":\"ba7dca6c-2949-44ff-92a8-b83c427a5161\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FDdd339d821f6d10509732010affd84194\",\"child_label\":\"Layer\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"be315853-8016-463d-bdef-b8e864f8fae3\",\"hint\":null,\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"67b941cd-1609-4a8c-8eff-ac0e111b2a46\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-23 07:55:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>91339d820b6d105057d8482393673a95</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDdd339d821f6d10509732010affd84194</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AWS OpsWorks Spoke" source="sn_aws_opswork_spk">7ca689a10b55dc1057d8482393673a8b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AWS OpsWorks Spoke">7ca689a10b55dc1057d8482393673a8b</sys_scope>
+        <sys_update_name>sys_complex_object_91339d820b6d105057d8482393673a95</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-23 07:55:10</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

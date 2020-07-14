@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDe5d539a55d95dc102b60502c2d04f75e</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>7ca689a10b55dc1057d8482393673a8b</scope_name>
+        <serialized_content>{"FlowDesigner:FDe5d539a55d95dc102b60502c2d04f75e":{"$COCollectionField":["String"],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FDe5d539a55d95dc102b60502c2d04f75e.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Stack IDs\",\"mandatory\":\"false\",\"child_name\":\"Stack_ID\",\"uiUniqueId\":\"8a9d2151-ee5f-4a3d-875f-f364624b6c64\",\"uiTypeLabel\":\"Array.String\",\"co_type_name\":\"FDe5d539a55d95dc102b60502c2d04f75e\",\"child_label\":\"Stack ID\",\"child_type_label\":\"String\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"array.string\",\"child_type\":\"string\",\"order\":\"2\",\"max_length\":\"0\",\"child_uiUniqueId\":\"7d6a80d0-5b22-4ad6-b52d-0b99962adac9\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-09 10:53:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a9d539a50b95dc1057d8482393673a5e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDe5d539a55d95dc102b60502c2d04f75e</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AWS OpsWorks Spoke" source="sn_aws_opswork_spk">7ca689a10b55dc1057d8482393673a8b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AWS OpsWorks Spoke">7ca689a10b55dc1057d8482393673a8b</sys_scope>
+        <sys_update_name>sys_complex_object_a9d539a50b95dc1057d8482393673a5e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-09 10:53:48</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>
